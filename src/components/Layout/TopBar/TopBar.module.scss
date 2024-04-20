@@ -1,0 +1,12 @@
+.topBar {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  z-index: 5;
+  -webkit-box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.19);
+  box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.19); 
+ 
+}
